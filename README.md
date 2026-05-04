@@ -2,7 +2,7 @@
 
 #This is my first change 
 
-ls 
-pwd
-mkdir -p lokesh
-ls -lrth
+ ls 
+ pwd
+ mkdir -p lokesh
+ ls -lrth
