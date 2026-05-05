@@ -8,3 +8,4 @@ pwd
 mkdir -p lokesh
 ls -lrth
 touch lokesh.sh
+ls
